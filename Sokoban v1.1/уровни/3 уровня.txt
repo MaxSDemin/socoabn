@@ -1,0 +1,52 @@
+*************************************
+Maze: 1
+File offset: 148C, DS:00FC, table offset: 0000
+Size X: 10
+Size Y: 8
+End: 14BD
+Length: 50
+
+XXXXXXXXXX
+X        X
+X  ...   X
+X        X
+X  ***   X
+X        X
+X   @    X
+XXXXXXXXXX
+
+*************************************
+Maze: 2
+File offset: 14BE, DS:012E, table offset: 0032
+Size X: 13
+Size Y: 7
+End: 14E8
+Length: 43
+
+ XXXXXXXXXXX  
+XX         XX
+X.    *  *  X
+X..  *      X
+X.    @   * X
+XX         XX
+ XXXXXXXXXXX  
+
+
+*************************************
+Maze: 3
+File offset: 14E9, DS:0159, table offset: 005D
+Size X: 16
+Size Y: 10
+End: 150D
+Length: 37
+
+     XXXXXXXXXXX 
+     X        @X 
+     X    * * XX 
+     X    *   X  
+     XX   **  X  
+XXXXXXX *   XXX
+X...    *  *  X
+XX..     *    X
+X....  XXXXXXXX
+XXXXXXXX         

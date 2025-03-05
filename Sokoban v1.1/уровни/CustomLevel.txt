@@ -1,0 +1,16 @@
+*************************************
+Maze: 1
+File offset: 148C, DS:00FC, table offset: 0000
+Size X: 10
+Size Y: 8
+End: 14BD
+Length: 50
+
+XXXXXXXXXX
+X .X..   X
+X        X
+XXX   XXXX
+X  * *  XX
+X        X
+X   * X @X
+XXXXXXXXXX

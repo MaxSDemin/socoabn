@@ -1,0 +1,474 @@
+*************************************
+Maze: 1
+File offset: 148C, DS:00FC, table offset: 0000
+Size X: 22
+Size Y: 11
+End: 14BD
+Length: 50
+
+    XXXXX             
+    X   X             
+    X*  X             
+  XXX  *XXX           
+  X  *  * X           
+XXX X XXX X     XXXXXX
+X   X XXX XXXXXXX  ..X
+X *  *             ..X
+XXXXX XXXX X@XXXX  ..X
+    X      XXX  XXXXXX
+    XXXXXXXX          
+
+*************************************
+Maze: 2
+File offset: 14BE, DS:012E, table offset: 0032
+Size X: 14
+Size Y: 10
+End: 14E8
+Length: 43
+
+XXXXXXXXXXXX  
+X..  X     XXX
+X..  X *  *  X
+X..  X*XXXX  X
+X..    @ XX  X
+X..  X X  * XX
+XXXXXX XX* * X
+  X *  * * * X
+  X    X     X
+  XXXXXXXXXXXX
+
+*************************************
+Maze: 3
+File offset: 14E9, DS:0159, table offset: 005D
+Size X: 17
+Size Y: 10
+End: 150D
+Length: 37
+
+        XXXXXXXX 
+        X     @X 
+        X *X* XX 
+        X *  *X  
+        XX* * X  
+XXXXXXXXX * X XXX
+X....  XX *  *  X
+XX...    *  *   X
+X....  XXXXXXXXXX
+XXXXXXXX         
+
+*************************************
+Maze: 4
+File offset: 150E, DS:017E, table offset: 0082
+Size X: 22
+Size Y: 13
+End: 154D
+Length: 64
+
+              XXXXXXXX
+              X  ....X
+   XXXXXXXXXXXX  ....X
+   X    X  * *   ....X
+   X ***X*  * X  ....X
+   X  *     * X  ....X
+   X ** X* * *XXXXXXXX
+XXXX  * X     X       
+X   X XXXXXXXXX       
+X    *  XX            
+X **X** @X            
+X   X   XX            
+XXXXXXXXX             
+
+*************************************
+Maze: 5
+File offset: 154E, DS:01BE, table offset: 00C2
+Size X: 17
+Size Y: 13
+End: 1580
+Length: 51
+
+        XXXXX    
+        X   XXXXX
+        X X*XX  X
+        X     * X
+XXXXXXXXX XXX   X
+X....  XX *  *XXX
+X....    * ** XX 
+X....  XX*  * @X 
+XXXXXXXXX  *  XX 
+        X * *  X 
+        XXX XX X 
+          X    X 
+          XXXXXX 
+
+*************************************
+Maze: 6
+File offset: 1581, DS:01F1, table offset: 00F5
+Size X: 12
+Size Y: 11
+End: 15AC
+Length: 44
+
+XXXXXX  XXX 
+X..  X XX@XX
+X..  XXX   X
+X..     ** X
+X..  X X * X
+X..XXX X * X
+XXXX * X*  X
+   X  *X * X
+   X *  *  X
+   X  XX   X
+   XXXXXXXXX
+
+*************************************
+Maze: 7
+File offset: 15AD, DS:021D, table offset: 0121
+Size X: 13
+Size Y: 12
+End: 15D8
+Length: 44
+
+       XXXXX 
+ XXXXXXX   XX
+XX X @XX ** X
+X    *      X
+X  *  XXX   X
+XXX XXXXX*XXX
+X *  XXX ..X 
+X * * * ...X 
+X    XXX...X 
+X ** X X...X 
+X  XXX XXXXX 
+XXXX         
+
+*************************************
+Maze: 8
+File offset: 15D9, DS:0249, table offset: 014D
+Size X: 16
+Size Y: 17
+End: 161A
+Length: 66
+
+  XXXX          
+  X  XXXXXXXXXXX
+  X    *   * * X
+  X *X * X  *  X
+  X  * *  X    X
+XXX *X X  XXXX X
+X@X* * *  XX   X
+X    * X*X   X X
+XX  *    * * * X
+ XXXX  XXXXXXXXX
+  XXX  XXX      
+  X      X      
+  X      X      
+  X......X      
+  X......X      
+  X......X      
+  XXXXXXXX      
+
+*************************************
+Maze: 9
+File offset: 161B, DS:028B, table offset: 018F
+Size X: 17
+Size Y: 18
+End: 165D
+Length: 67
+
+          XXXXXXX
+          X  ...X
+      XXXXX  ...X
+      X      ...X
+      X  XX  ...X
+      XX XX  ...X
+     XXX XXXXXXXX
+     X *** XX    
+ XXXXX  * * XXXXX
+XX   X* *   X   X
+X@ *  *    *  * X
+XXXXXX ** * XXXXX
+     X *    X    
+     XXXX XXX    
+        X  X     
+        X  X     
+        X  X     
+        XXXX     
+
+*************************************
+Maze: 10
+File offset: 165E, DS:02CE, table offset: 01D2
+Size X: 21
+Size Y: 20
+End: 16BE
+Length: 97
+
+              XXXX   
+         XXXXXX  X   
+         X       X   
+         X  XXXX XXX 
+ XXX  XXXXX XXX    X 
+XX@XXXX   *** X    X 
+X **   ** *   X....XX
+X  ***X    *  X.....X
+X *   X ** ** X.....X
+XXX   X  *    X.....X
+  X   X * * * X.....X
+  X XXXXXXX XXX.....X
+  X   X  * *  X.....X
+  XXX X ** * *XXXXXXX
+    X X  *      X    
+    X X *** *** X    
+    X X       X X    
+    X XXXXXXXXX X    
+    X           X    
+    XXXXXXXXXXXXX    
+
+*************************************
+Maze: 11
+File offset: 16BF, DS:032F, table offset: 0233
+Size X: 19
+Size Y: 15
+End: 16FF
+Length: 65
+
+          XXXX     
+     XXXX X  X     
+   XXX  XXX* X     
+  XX   @  *  X     
+ XX  * **XX XX     
+ X  X*XX     X     
+ X X * ** X XXX    
+ X   * X  X * XXXXX
+XXXX    X  ** X   X
+XXXX XX *         X
+X.    XXX  XXXXXXXX
+X.. ..X XXXX       
+X...X.X            
+X.....X            
+XXXXXXX            
+
+*************************************
+Maze: 12
+File offset: 1700, DS:0370, table offset: 0274
+Size X: 13
+Size Y: 16
+End: 1741
+Length: 66
+
+  XXXXXXXXX  
+  X&.&X&.&X  
+  X.&.&.&.X  
+  X&.&.&.&X  
+  X.&.&.&.X  
+  X&.&.&.&X  
+  XXX   XXX  
+    X   X    
+XXXXXX XXXXXX
+X           X
+X * * * * * X
+XX * * * * XX
+ X* * * * *X 
+ X   *@*   X 
+ X  XXXXX  X 
+ XXXX   XXXX 
+
+*************************************
+Maze: 13
+File offset: 1742, DS:03B2, table offset: 02B6
+Size X: 20
+Size Y: 13
+End: 178D
+Length: 76
+
+    XXXXXXXXX       
+  XXX   XX  XXXXX   
+XXX      X  X   XXXX
+X  ** X* X  X  ... X
+X X  *X@*XX X X.X. X
+X  XX X*  X    ... X
+X *X    * X X X.X. X
+X    XX  XX* * ... X
+X * XX   X  X*X.X. X
+XX **  *   *  *... X
+ X*  XXXXXX    XX  X
+ X   X    XXXXXXXXXX
+ XXXXX              
+
+*************************************
+Maze: 14
+File offset: 178E, DS:03FE, table offset: 0302
+Size X: 17
+Size Y: 13
+End: 17C7
+Length: 58
+
+XXXXXXXXXXXXXXXX 
+X              X 
+X X XXXXXX     X 
+X X  * * * *X  X 
+X X   *@*   XX XX
+X X X* * *XXX...X
+X X   * *  XX...X
+X XXX*** * XX...X
+X     X XX XX...X
+XXXXX   XX XX...X
+    XXXXX     XXX
+        X     X  
+        XXXXXXX  
+
+*************************************
+Maze: 15
+File offset: 17C8, DS:0438, table offset: 033C
+Size X: 17
+Size Y: 17
+End: 180F
+Length: 72
+
+       XXXX      
+    XXXX  X      
+   XX  X  X      
+   X  * * X      
+ XXX X*   XXXX   
+ X  *  XX*   X   
+ X  X @ * X *X   
+ X  X      * XXXX
+ XX XXXX*XX     X
+ X *X.....X X   X
+ X  *...&. *X XXX
+XX  X.....X   X  
+X   XXX XXXXXXX  
+X **  X  X       
+X  X     X       
+XXXXXX   X       
+     XXXXX       
+
+*************************************
+Maze: 16
+File offset: 1810, DS:0480, table offset: 0384
+Size X: 14
+Size Y: 15
+End: 184E
+Length: 63
+
+XXXXX         
+X   XX        
+X    X  XXXX  
+X *  XXXX  X  
+X  ** *   *X  
+XXX@ X*    XX 
+ X  XX  * * XX
+ X *  XX XX .X
+ X  X*XX*  X.X
+ XXX   *..XX.X
+  X    X.&...X
+  X ** X.....X
+  X  XXXXXXXXX
+  X  X        
+  XXXX        
+
+*************************************
+Maze: 17
+File offset: 184F, DS:04BF, table offset: 03C3
+Size X: 18
+Size Y: 16
+End: 1895
+Length: 71
+
+       XXXXXXX    
+ XXXXXXX     X    
+ X     X *@* X    
+ X** X   XXXXXXXXX
+ X XXX......XX   X
+ X   *......XX X X
+ X XXX......     X
+XX   XXXX XXX X*XX
+X  X*   X  *  X X 
+X  * ***  X *XX X 
+X   * * XXX** X X 
+XXXXX     *   X X 
+    XXX XXX   X X 
+      X     X   X 
+      XXXXXXXX  X 
+             XXXX 
+
+*************************************
+Maze: 18
+File offset: 1896, DS:0506, table offset: 040A
+Size X: 22
+Size Y: 13
+End: 18DC
+Length: 71
+
+      XXXXXXXXXXXX    
+      X  .  XX   X    
+      X X.     @ X    
+ XXXXXX XX...X XXXX   
+XX  XX...XXXX     XXXX
+X * XX...    * X  *  X
+X     .. XX X XX XX  X
+XXXX*XXX*X *  X   X XX
+ XXX  X    XX* ** X X 
+ X   ** X X * X *XX X 
+ X                  X 
+ XXXXXXXXXXXXXXXXX  X 
+                 XXXX 
+
+*************************************
+Maze: 19
+File offset: 18DD, DS:054D, table offset: 0451
+Size X: 28
+Size Y: 20
+End: 1951
+Length: 117
+
+        XXXXXX              
+        X   @XXXX           
+      XXXXX *   X           
+      X   XX    XXXX        
+      X *XX  XX    X        
+      X   X  XXXXX X        
+      X X** *    X X        
+      X  * * XXX X X        
+      X X   *  X X X        
+      X X  X*X   X X        
+     XX XXXX   X X X        
+     X  *  XXXXX X X XXXX   
+    XX    *     *  XXX  XXXX
+XXXXX  XXX * *X * X   .....X
+X     XX      X  XX  X.....X
+X ****    XXXXXX*XX   X.XX.X
+XX    XX              X....X
+ XX  XXXXXXXXXXXXXXX   ....X
+  X  X             XXXXX  XX
+  XXXX                 XXXX 
+
+*************************************
+Maze: 20
+File offset: 1952, DS:05C2, table offset: 04C6
+Size X: 20
+Size Y: 20
+End: 19B7
+Length: 102
+
+       XXXXXXXXXXXX 
+       X..........X 
+     XXX.X.X.X.X..X 
+     X   .........X 
+     X@ * * * &.&.X 
+    XXXXXXX XXXXXXX 
+ XXXX   X    XX  X  
+XX    * X    X * XX 
+X  X*X XXX XXX*   XX
+X *  * *   X * * * X
+X  X * XX       X* X
+X   *XXXX*XXXX*XX  X
+XXXX  XX   X    X  X
+   X* XX   X X **  X
+   X   X * X  *    X
+   XXX X ** X  * XXX
+     X X    X * XX  
+     X XXXXXXXX X   
+     X          X   
+     XXXXXXXXXXXX   
+
+*************************************
